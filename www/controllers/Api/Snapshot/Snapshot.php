@@ -2,7 +2,7 @@
 
 namespace Controllers\Api\Snapshot;
 
-use \Controllers\User\Permission\Repo as RepoPermission;
+use Controllers\User\Permission\Repo as RepoPermission;
 use Exception;
 
 class Snapshot extends \Controllers\Api\Controller

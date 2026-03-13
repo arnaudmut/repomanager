@@ -3,8 +3,8 @@
 namespace Controllers\Api;
 
 use Exception;
-use \Controllers\App\Maintenance;
-use \Controllers\Update;
+use Controllers\App\Maintenance;
+use Controllers\Update;
 
 class Api
 {
